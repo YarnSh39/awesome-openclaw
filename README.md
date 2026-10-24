@@ -355,6 +355,7 @@ A curated list of community-built projects, tools, and integrations for OpenClaw
 | [Claude Code](https://claude.ai/code) | Proprietary | Developer coding assistance |
 | [Jan.ai](https://jan.ai/) | Open Source | Privacy-focused, offline |
 | [eesel AI](https://eesel.ai/) | SaaS | Business customer service |
+| [Borg](https://github.com/adelphidata/borg) | Open Source | OpenClaw alternative in Rust: sandbox on by default, self-healing, one-command OpenClaw import |
 
 ### Comparison Resources
 
